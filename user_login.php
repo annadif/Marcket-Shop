@@ -1,5 +1,6 @@
 <?php
 
+
 include 'components/connect.php';
 
 session_start();
@@ -81,4 +82,5 @@ if(isset($_POST['submit'])){
 <script src="js/script.js"></script>
 
 </body>
+
 </html>
