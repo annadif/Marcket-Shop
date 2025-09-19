@@ -1,5 +1,8 @@
 <footer class="footer">
 
+
+
+   ///mnmnmnmnmn
    <section class="grid">
 
       <div class="box">
@@ -37,5 +40,6 @@
    </section>
 
    <div class="credit">&copy; copyright @ <?= date('Y'); ?> by <span>CODESHOPE</span> | all rights reserved!</div>
+
 
 </footer>
