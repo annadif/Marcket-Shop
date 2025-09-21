@@ -1,6 +1,5 @@
 <?php
 
-
 include 'components/connect.php';
 
 session_start();
@@ -152,6 +151,7 @@ var swiper = new Swiper(".reviews-slider", {
 </body>
 
 </html>
+
 
 
 
